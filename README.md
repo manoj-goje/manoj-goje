@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Goje</h1>
-<h3 align="center">raTnsforming Data into Insights with Azure Technologies</h3>
+<h3 align="center">Transforming Data into Insights with Azure Technologies</h3>
 
 - 🔭 I’m currently working on **Azure Data Engineering Project**
 
